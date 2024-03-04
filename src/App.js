@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function App () {
   return (
-    <div> appp is important </div>
+    <div> this is the first thing </div>
   )
 }
 
