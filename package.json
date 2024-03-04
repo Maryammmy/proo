@@ -2,7 +2,7 @@
   "name": "proo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Maryammmy.github.io/proo",
+  "homepage": "https://Maryammmy.github.io/ npm proo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
